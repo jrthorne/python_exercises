@@ -25,3 +25,4 @@ sum_tu	= sum(tully)
 no_data = 7
 max_avg = max(sum_au, sum_bu, sum_ca, sum_da, sum_tu) / no_data
 print 'The max average rainfall is ', max_avg
+print "*****END OF REPORT ****"
